@@ -1,0 +1,116 @@
+#input_box{
+ 
+    font-size: 0.5em;
+    font-family: cursive;
+    border-radius: 9px;
+    border-color:chartreuse;
+    width: 20%;
+    
+}
+#input_box1{
+ text-align: center;
+    font-size: 1.5em;
+    font-family: cursive;
+    border-radius: 5px;
+    border: 60px;
+    border-color:cyan;
+    width: 20%;
+    
+}
+
+#input_box :hover{
+    background-color: fuchsia;
+}
+#submit{
+      font-size: 0.6em;
+    font-family: monospace;
+     border-radius: 20px;
+    border-color: darkblue;
+    
+    color:blue;
+}
+#submit1{
+    color:darksalmon;
+    background-color: red;
+    border:40px;
+    font-size: 1.7em;
+    border-radius: 10px;
+}
+#submit1:hover{
+    font-size: 2em;
+    background-color: darkgreen;
+ }
+#submit:hover{
+    border-color: greenyellow;
+    background-color: black;
+    color:lawngreen;
+}
+
+
+#result{
+    font-family: cursive;
+    font-size: 1.4em;
+    animation: all;
+text-align: center;
+    margin: auto;
+    
+    width: 600px;
+    height: 400px;
+    color: black;
+    background-color: chartreuse;
+}
+
+
+#Result1{
+   font-family:sans-serif;
+    font-size: 1.5em;
+    margin: auto;
+    width: 60%;
+    height:auto;
+    color:greenyellow;
+    background-color: transparent blue;
+}
+#Result1:hover{
+    
+    color: yellow;
+    background-color: blue;
+}
+
+#h{
+    font-family: cursive;
+    font-size: 1.7em;
+    background-color: dodgerblue;
+     text-align: center;
+color:currentColor;      
+}
+
+#re{
+    text-align: center;
+  background-color:darkkhaki;
+    
+}
+#bg{
+    background-image: url(https://4.bp.blogspot.com/-WELtOn-_4_w/V33Wpyhe7GI/AAAAAAAAAb0/CnK5_aHo9VMH6Q0j1KMxIWGYSR3QVx-qACLcB/s1600/Along%2Bwith%2Bour%2Bsolar-powered%2Baircraft%2BAquila%2Band.png);
+}
+
+#id{
+    text-align: center;
+    width: 33.5%;
+    height: 100%;
+    background-color: chocolate;
+}
+#tab{
+     background-color:darkgrey;
+    
+}
+
+
+#ipe{
+    color:chartreuse;
+    font-family: cursive;
+    font-size: 2em;
+}
+#co:hover{
+ color:darkorange;
+    z-index: -1;
+}

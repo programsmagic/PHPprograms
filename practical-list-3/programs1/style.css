@@ -1,0 +1,67 @@
+body{
+    margin:0;
+    padding: 0;
+}
+
+
+.bg{
+    background-color: chocolate;
+}
+.bg1{
+    background-color:darkslategrey;
+}
+#form{
+    padding: 20px;
+     width: 200px;
+align-content: center;
+}
+#form25{
+    padding: 20px;
+     width: 800px;
+align-content:stretch;
+    
+}
+#inbox{
+    font-size: 2em;
+    font-family: monospace;
+    color:firebrick;
+    border-color: limegreen;
+    border-radius: 10px;
+    }
+#button{
+    font-size: 1.3em;
+    color: deepskyblue;
+    border-radius: 10px;
+    padding: 2px;
+    margin-top: 10px
+}
+#p{
+    color:darkslategrey;
+    font-family: cursive;
+    font-size: 1em;
+    text-shadow: 2px 3px 8px white;
+}#p:hover{
+    color:darkslategrey;
+    font-family: cursive;
+    font-size: 1.5em;
+      text-shadow: 2px 3px 8px pink;
+}
+#p1{
+    color:darkslategrey;
+    color: antiquewhite;
+    font-family: cursive;
+    font-size: 1em;
+    text-shadow: 2px 3px 8px black;
+}#p1:hover{
+    color:darkslategrey;
+
+    font-family: cursive;
+    font-size: 1.5em;
+      text-shadow: 2px 3px 8px white;
+}
+
+#tab{
+     color: firebrick;
+     background-color: darkorange;
+
+}

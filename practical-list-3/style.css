@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100*100vh;
+    
+}
+
+
+
+#particles-js {
+    height: 100%;
+    background: green;
+   background-size: cover; 
+}
